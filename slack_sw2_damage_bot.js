@@ -3,7 +3,7 @@ Copyright SNE™ for damage table,"威力表"
 
   Run this bot from the command line:
 
-    token=xoxb-68387484403-xoEnagome0OBqRlmyG3tEZBC node slack_sw2_damage_bot.js
+    token=xxxxxx node slack_sw2_damage_bot.js
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
 
